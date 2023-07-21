@@ -1,11 +1,11 @@
 ![Jigurdas](https://github.com/jigurdas/jigurdas/blob/main/images/header.png)
 
 ## Автор Github профіля Jigurdas
-Мене звати **Jigurdas** я займаюсь Game development, Python development, C# development, pentesting з 2021 року.
+Мене звати **Jigurdas** я займаюсь Game development, Python development, C# development, Telegram bot development, pentesting з 2021 року.
 
 В 2022 році заснувував компанію Juggers.
 
-Вивчаю мови C#, C++/C, Python, системой контроля версій Git,  а ще багато іншого із світу веб-технологій. 
+Вивчаю мови C#, C++/C, Python, системой контроля версій Git,  а ще багато іншого із світу розробки. 
 
 ### Статистика на GitHub
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jigurdas&layout=compact&theme=dark)](https://github.com/jigurdas/github-readme-stats&layout=compact&theme=dark)
