@@ -14,6 +14,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python)  
 ![C#](https://img.shields.io/badge/-csharp-333?style=for-the-badge&logo=csharp)
+![Game developer](https://img.shields.io/badge/-gamedeveloper-333?style=for-the-badge&logo=gamedeveloper)
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
 ![Pycharm](https://img.shields.io/badge/-pycharm-333?style=for-the-badge&logo=pycharm)
 
