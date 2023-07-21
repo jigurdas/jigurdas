@@ -12,7 +12,7 @@
 
 ### Мій стек технологій
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python)  
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python)
 ![C#](https://img.shields.io/badge/-csharp-333?style=for-the-badge&logo=csharp)
 ![Telegram bot development](https://img.shields.io/badge/-chatbot-333?style=for-the-badge&logo=chatbot)
 ![Game developer](https://img.shields.io/badge/-gamedeveloper-333?style=for-the-badge&logo=gamedeveloper)
