@@ -1,7 +1,7 @@
-[![Jigurdas](https://github.com/jigurdas/jigurdas/blob/main/images/header.png)](https://www.youtube.com/c/ITDoctor)
+[![Jigurdas](https://github.com/jigurdas/jigurdas/blob/main/images/header.png)]
 
 ## Автор канала ITDoctor
-Меня зовут **Исмаил Усеинов** я занимаюсь веб-разработкой с 2013 года.
+Меня зовут **Jigurdas** я займаюсь Game development, Python development, C# development с 2021 года.
 
 В 2017 году основал обучающий YouTube канал ITDoctor. Делюсь своими знаниями в области программирования и создания сайтов. Сформировал свою собственную методику обучения, которая позволяет ученикам максимально эффективно осваивать изучаемый материал. Огромное количество моих учеников уже научились создавать сайты самостоятельно и зарабатывать на этом деньги.
 
