@@ -14,6 +14,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python)  
 ![C#](https://img.shields.io/badge/-csharp-333?style=for-the-badge&logo=csharp)
+![Telegram bot development](https://img.shields.io/badge/-chatbot-333?style=for-the-badge&logo=chatbot)
 ![Game developer](https://img.shields.io/badge/-gamedeveloper-333?style=for-the-badge&logo=gamedeveloper)
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
 ![Pycharm](https://img.shields.io/badge/-pycharm-333?style=for-the-badge&logo=pycharm)
@@ -21,11 +22,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigurdas&layout=compact&theme=dark)
 
 ### Донати
-[![Yoomoney](https://img.shields.io/badge/-Yoomoney-7f2bfd?style=for-the-badge)](https://yasobe.ru/na/itdoctor)
-[![Boosty](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://boosty.to/itdoctor)
+[![Patreon](https://img.shields.io/badge/-patreon-FFA318?style=for-the-badge)](https://patreon.com/jigurdas) 
 
 ### Контакти
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/jigurdas)
-[![Bot](https://img.shields.io/badge/-Bot-333?style=for-the-badge)](https://t.me/jigurdasNavigatorBot?start)
+[![Bot](https://img.shields.io/badge/-Bot-333?style=for-the-badge&logo=chatbot&logoColor=27A0D9)](https://t.me/jigurdasNavigatorBot?start)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/jigurdas)
 [![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/jigurdas)
