@@ -14,9 +14,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python)  
 ![C#](https://img.shields.io/badge/-csharp-333?style=for-the-badge&logo=csharp)
-![Blender](https://img.shields.io/badge/-Blender-333?style=for-the-badge&logo=Blender)
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
-![Pycharm](https://img.shields.io/badge/-pycharm-333?style=for-the-badge&logo=Photoshop&logo=pycharm)
+![Pycharm](https://img.shields.io/badge/-pycharm-333?style=for-the-badge&logo=pycharm)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigurdas&layout=compact&theme=dark)
 
