@@ -10,13 +10,13 @@
 ### Статистика на GitHub
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jigurdas&layout=compact&theme=dark)](https://github.com/jigurdas/github-readme-stats&layout=compact&theme=dark)
 
-### Мой стек технологий
+### Мій стек технологій
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python)  
 ![C#](https://img.shields.io/badge/-csharp-333?style=for-the-badge&logo=csharp)
 ![Blender](https://img.shields.io/badge/-Blender-333?style=for-the-badge&logo=Blender)
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
+![Pycharm](https://img.shields.io/badge/-pycharm-333?style=for-the-badge&logo=Photoshop&logo=pycharm)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigurdas&layout=compact&theme=dark)
 
@@ -25,7 +25,7 @@
 [![Boosty](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://boosty.to/itdoctor)
 
 ### Контакти
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/itdoctor_official)
-[![Bot](https://img.shields.io/badge/-Bot-333?style=for-the-badge)](https://t.me/itdoctorNavigatorBot?start)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/morphIsmail)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/jigurdas)
+[![Bot](https://img.shields.io/badge/-Bot-333?style=for-the-badge)](https://t.me/jigurdasNavigatorBot?start)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/jigurdas)
 [![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/jigurdas)
