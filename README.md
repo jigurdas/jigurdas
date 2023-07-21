@@ -15,7 +15,7 @@
 <!-- YOUTUBE:END -->
 
 ### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=morphIsmail&show_icons=true&hide=prs,issues,contribs&theme=dark)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jigurdas)](https://github.com/jigurdas/github-readme-stats)
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
