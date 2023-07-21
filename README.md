@@ -22,7 +22,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigurdas&layout=compact&theme=dark)
 
 ### Донати
-[![Patreon](https://img.shields.io/badge/-patreon-27A0D9?style=for-the-badge)](https://patreon.com/jigurdas) 
+[![Patreon](https://img.shields.io/badge/-patreon-333?style=for-the-badge)](https://patreon.com/jigurdas) 
 
 ### Контакти
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/jigurdas)
