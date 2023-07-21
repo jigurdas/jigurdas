@@ -1,4 +1,4 @@
-[![Jigurdas](https://github.com/jigurdas/jigurdas/blob/main/images/header.png)]
+![Jigurdas](https://github.com/jigurdas/jigurdas/blob/main/images/header.png)
 
 ## Автор канала ITDoctor
 Меня зовут **Jigurdas** я займаюсь Game development, Python development, C# development с 2021 года.
