@@ -11,9 +11,9 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jigurdas&layout=compact&theme=dark)](https://github.com/jigurdas/github-readme-stats&layout=compact&theme=dark)
 
 ### Мой стек технологий
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-![phpMyAdmin](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python)  
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python)  
+![C#](https://img.shields.io/badge/-C#-333?style=for-the-badge&logo=C#)
 ![Blender](https://img.shields.io/badge/-Blender-333?style=for-the-badge&logo=Blender)
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
