@@ -1,11 +1,11 @@
 ![Jigurdas](https://github.com/jigurdas/jigurdas/blob/main/images/header.png)
 
-## Автор канала ITDoctor
-Меня зовут **Jigurdas** я займаюсь Game development, Python development, C# development с 2021 года.
+## Автор Github профіля Jigurdas
+Мене звати **Jigurdas** я займаюсь Game development, Python development, C# development с 2021 року.
 
-В 2017 году основал обучающий YouTube канал ITDoctor. Делюсь своими знаниями в области программирования и создания сайтов. Сформировал свою собственную методику обучения, которая позволяет ученикам максимально эффективно осваивать изучаемый материал. Огромное количество моих учеников уже научились создавать сайты самостоятельно и зарабатывать на этом деньги.
+В 2022 році основував компанію Juggers. Делюсь своими знаниями в области программирования и создания сайтов. Сформировал свою собственную методику обучения, которая позволяет ученикам максимально эффективно осваивать изучаемый материал. Огромное количество моих учеников уже научились создавать сайты самостоятельно и зарабатывать на этом деньги.
 
-Обучаю языкам HTML, CSS, JavaScript, PHP, работе с препроцессорами, сборщиками, библиотеками, фреймворками, системой контроля версий Git,  а также многому другому из мира веб-технологий. 
+Вивчаю мови C#, C++/C, Python, системой контроля версій Git,  а ще багато іншого із світу веб-технологій. 
 
 ### Последние видео на канале ITDoctor
 <!-- YOUTUBE:START -->
@@ -18,13 +18,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jigurdas&layout=compact&theme=dark)](https://github.com/jigurdas/github-readme-stats&layout=compact&theme=dark)
 
 ### Мой стек технологий
-![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
-![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-333?style=for-the-badge&logo=jQuery&logoColor=blue)
-![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=Gulp)  
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=PHP)
@@ -37,18 +30,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigurdas&layout=compact&theme=dark)
 
-### Донаты
+### Донати
 [![Yoomoney](https://img.shields.io/badge/-Yoomoney-7f2bfd?style=for-the-badge)](https://yasobe.ru/na/itdoctor)
 [![Boosty](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://boosty.to/itdoctor)
 
-### Контакты
-[![YouTube](https://img.shields.io/badge/-YouTube-333?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/c/ITDoctor)
-[![Курсы на Stepik](https://img.shields.io/badge/-Курсы_на_Stepik-08a652?style=for-the-badge)](https://stepik.org/users/387773773/teach)
+### Контакти
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/itdoctor_official)
 [![Bot](https://img.shields.io/badge/-Bot-333?style=for-the-badge)](https://t.me/itdoctorNavigatorBot?start)
-[![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/itdoctorstudio)
-[![Дзен](https://img.shields.io/badge/-Дзен-333?style=for-the-badge)](https://zen.yandex.ru/itdoctor)
-[![Rutube](https://img.shields.io/badge/-Rutube-333?style=for-the-badge)](https://rutube.ru/channel/23500045/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/morphIsmail)
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/ismail_asanovich) -->
-[![Курсы на Udemy](https://img.shields.io/badge/-Udemy-333?style=for-the-badge&logo=Udemy&logoColor=fff)](https://www.udemy.com/user/useinov-ismail-asanovich/)
+[![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/jigurdas)
