@@ -1,4 +1,4 @@
-[![Jigurdas](https://github.com/jigurdas/jigurdas/tree/main/images/header.png)](https://www.youtube.com/c/ITDoctor)
+[![Jigurdas](https://github.com/jigurdas/jigurdas/blob/main/images/header.png)](https://www.youtube.com/c/ITDoctor)
 
 ## Автор канала ITDoctor
 Меня зовут **Исмаил Усеинов** я занимаюсь веб-разработкой с 2013 года.
