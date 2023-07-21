@@ -13,7 +13,7 @@
 ### Мой стек технологий
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python)  
-![C#](https://img.shields.io/badge/-C#-333?style=for-the-badge&logo=C#)
+![C#](https://img.shields.io/badge/-csharp-333?style=for-the-badge&logo=csharp)
 ![Blender](https://img.shields.io/badge/-Blender-333?style=for-the-badge&logo=Blender)
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
